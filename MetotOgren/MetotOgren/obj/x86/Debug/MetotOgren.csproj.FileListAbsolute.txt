@@ -1,0 +1,13 @@
+C:\Users\MO-04\Desktop\MetotOgren\MetotOgren\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\MO-04\Desktop\MetotOgren\MetotOgren\obj\x86\Debug\MetotOgren.Form1.resources
+C:\Users\MO-04\Desktop\MetotOgren\MetotOgren\obj\x86\Debug\MetotOgren.Properties.Resources.resources
+C:\Users\MO-04\Desktop\MetotOgren\MetotOgren\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\MO-04\Desktop\MetotOgren\MetotOgren\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\MO-04\Desktop\MetotOgren\MetotOgren\bin\Debug\MetotOgren.exe
+C:\Users\MO-04\Desktop\MetotOgren\MetotOgren\bin\Debug\MetotOgren.pdb
+C:\Users\MO-04\Desktop\MetotOgren\MetotOgren\obj\x86\Debug\MetotOgren.exe
+C:\Users\MO-04\Desktop\MetotOgren\MetotOgren\obj\x86\Debug\MetotOgren.pdb
+C:\Users\lenovo\Desktop\C#\NTP Dersinde Yaptığımız Çalışmalar\6.GÜN\MetotOgren\MetotOgren\obj\x86\Debug\MetotOgren.exe
+C:\Users\lenovo\Desktop\C#\NTP Dersinde Yaptığımız Çalışmalar\6.GÜN\MetotOgren\MetotOgren\obj\x86\Debug\MetotOgren.pdb
+C:\Users\lenovo\Desktop\Bilişim Teknolojileri\C#-NTP\NTP Dersinde Yaptığımız Çalışmalar\6.GÜN\MetotOgren\MetotOgren\obj\x86\Debug\MetotOgren.exe
+C:\Users\lenovo\Desktop\Bilişim Teknolojileri\C#-NTP\NTP Dersinde Yaptığımız Çalışmalar\6.GÜN\MetotOgren\MetotOgren\obj\x86\Debug\MetotOgren.pdb

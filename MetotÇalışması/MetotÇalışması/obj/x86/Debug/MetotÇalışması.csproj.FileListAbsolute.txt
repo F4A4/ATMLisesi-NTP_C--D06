@@ -1,0 +1,18 @@
+C:\Users\MO-04\Desktop\MetotÇalışması\MetotÇalışması\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\MO-04\Desktop\MetotÇalışması\MetotÇalışması\obj\x86\Debug\MetotÇalışması.Form1.resources
+C:\Users\MO-04\Desktop\MetotÇalışması\MetotÇalışması\obj\x86\Debug\MetotÇalışması.Properties.Resources.resources
+C:\Users\MO-04\Desktop\MetotÇalışması\MetotÇalışması\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\MO-04\Desktop\MetotÇalışması\MetotÇalışması\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\lenovo\Desktop\C#\Nesne Tabanı Dersinde Yaptığımız Çalışmalar\6.Ders\MetotÇalışması\MetotÇalışması\bin\Debug\MetotÇalışması.exe
+C:\Users\lenovo\Desktop\C#\Nesne Tabanı Dersinde Yaptığımız Çalışmalar\6.Ders\MetotÇalışması\MetotÇalışması\bin\Debug\MetotÇalışması.pdb
+C:\Users\lenovo\Desktop\C#\Nesne Tabanı Dersinde Yaptığımız Çalışmalar\6.Ders\MetotÇalışması\MetotÇalışması\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\lenovo\Desktop\C#\Nesne Tabanı Dersinde Yaptığımız Çalışmalar\6.Ders\MetotÇalışması\MetotÇalışması\obj\x86\Debug\MetotÇalışması.Form1.resources
+C:\Users\lenovo\Desktop\C#\Nesne Tabanı Dersinde Yaptığımız Çalışmalar\6.Ders\MetotÇalışması\MetotÇalışması\obj\x86\Debug\MetotÇalışması.Properties.Resources.resources
+C:\Users\lenovo\Desktop\C#\Nesne Tabanı Dersinde Yaptığımız Çalışmalar\6.Ders\MetotÇalışması\MetotÇalışması\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\lenovo\Desktop\C#\Nesne Tabanı Dersinde Yaptığımız Çalışmalar\6.Ders\MetotÇalışması\MetotÇalışması\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\lenovo\Desktop\C#\Nesne Tabanı Dersinde Yaptığımız Çalışmalar\6.Ders\MetotÇalışması\MetotÇalışması\obj\x86\Debug\MetotÇalışması.exe
+C:\Users\lenovo\Desktop\C#\Nesne Tabanı Dersinde Yaptığımız Çalışmalar\6.Ders\MetotÇalışması\MetotÇalışması\obj\x86\Debug\MetotÇalışması.pdb
+C:\Users\lenovo\Desktop\C#\NTP Dersinde Yaptığımız Çalışmalar\6.GÜN\MetotÇalışması\MetotÇalışması\obj\x86\Debug\MetotÇalışması.exe
+C:\Users\lenovo\Desktop\C#\NTP Dersinde Yaptığımız Çalışmalar\6.GÜN\MetotÇalışması\MetotÇalışması\obj\x86\Debug\MetotÇalışması.pdb
+C:\Users\lenovo\Desktop\Bilişim Teknolojileri\C#-NTP\NTP Dersinde Yaptığımız Çalışmalar\6.GÜN\MetotÇalışması\MetotÇalışması\obj\x86\Debug\MetotÇalışması.exe
+C:\Users\lenovo\Desktop\Bilişim Teknolojileri\C#-NTP\NTP Dersinde Yaptığımız Çalışmalar\6.GÜN\MetotÇalışması\MetotÇalışması\obj\x86\Debug\MetotÇalışması.pdb
